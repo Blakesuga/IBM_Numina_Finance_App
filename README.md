@@ -99,8 +99,7 @@ Through Numina, our team showed proficiency in both technical implementation and
 ## **👥 Team Project**
 
 Numina was collaboratively built by our group as part of the IBM college bootcamp.
-Jaden Pathammavong japath59@vt.edu
-Natan
+
 
 ---
 
