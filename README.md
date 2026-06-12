@@ -100,10 +100,10 @@ Through Numina, our team showed proficiency in both technical implementation and
 
 Numina was collaboratively built by our group as part of the IBM college bootcamp.
 The team:
-- Jaden Pathammavong -- japath59@vt.edu
-- Natania Philippe -- nphilippe@ufl.edu
-- Ashley Powell -- ashleypowell@vt.edu
-- Shriya Ravipati -- shriyaravipati@gmail.com
+- Jaden Pathammavong — japath59@vt.edu
+- Natania Philippe — nphilippe@ufl.edu
+- Ashley Powell — ashleypowell@vt.edu
+- Shriya Ravipati — shriyaravipati@gmail.com
 
 ---
 
